@@ -1,5 +1,5 @@
 # projetoKingHost
-Projeto Hostinger : aprender principios do SaSS
+Projeto Kinghost : aprender principios do SaSS
 
 Acesse aqui: [https://caroline-medeiros.github.io/projetoHostinger/
 ](https://caroline-medeiros.github.io/projetoKinghost/)
